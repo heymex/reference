@@ -1,3 +1,4 @@
 ansible_user: username
 ansible_ssh_pass: password
 ansible_sudo_pass: password
+# When complete, run 'ansible-vault encrypt vault.plaintext', then 'mv vault.plaintext vault' to rename
